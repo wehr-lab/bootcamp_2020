@@ -1,0 +1,7 @@
+matplotlib
+pandas
+numpy
+altair
+scipy
+ipywidgets
+vega
